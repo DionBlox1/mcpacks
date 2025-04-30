@@ -3,7 +3,7 @@
 A set of Amethyst tools and armor.
 
 # Overview
-Amethyst tools brings a new set of tools and armor to Minecraft: Bedrock Eddition. It includes axes, shovels, swords, pickaxes, hoes and armor!
+Amethyst tools brings a new set of tools and armor to Minecraft: Bedrock Edition. It includes axes, shovels, swords, pickaxes, hoes and armor!
 
 # Crafting
 
