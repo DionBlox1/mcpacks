@@ -1,2 +1,2 @@
-# mcpacks
-My Minecraft packs for bedrock and (possibly) java!
+# mcpacks and mcaddons
+My Minecraft packs and addons for bedrock!
